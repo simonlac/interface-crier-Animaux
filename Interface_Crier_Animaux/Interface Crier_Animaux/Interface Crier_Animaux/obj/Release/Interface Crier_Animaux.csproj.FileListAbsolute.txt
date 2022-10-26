@@ -1,0 +1,6 @@
+C:\Users\18196\source\repos\Interface Crier_Animaux\Interface Crier_Animaux\bin\Release\Interface Crier_Animaux.exe.config
+C:\Users\18196\source\repos\Interface Crier_Animaux\Interface Crier_Animaux\bin\Release\Interface Crier_Animaux.exe
+C:\Users\18196\source\repos\Interface Crier_Animaux\Interface Crier_Animaux\bin\Release\Interface Crier_Animaux.pdb
+C:\Users\18196\source\repos\Interface Crier_Animaux\Interface Crier_Animaux\obj\Release\Interface Crier_Animaux.csproj.CoreCompileInputs.cache
+C:\Users\18196\source\repos\Interface Crier_Animaux\Interface Crier_Animaux\obj\Release\Interface Crier_Animaux.exe
+C:\Users\18196\source\repos\Interface Crier_Animaux\Interface Crier_Animaux\obj\Release\Interface Crier_Animaux.pdb

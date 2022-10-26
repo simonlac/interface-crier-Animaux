@@ -1,0 +1,15 @@
+C:\Users\18196\source\repos\Interface Crier_Animaux\Interface Crier_Animaux\bin\Debug\Interface Crier_Animaux.exe.config
+C:\Users\18196\source\repos\Interface Crier_Animaux\Interface Crier_Animaux\bin\Debug\Interface Crier_Animaux.exe
+C:\Users\18196\source\repos\Interface Crier_Animaux\Interface Crier_Animaux\bin\Debug\Interface Crier_Animaux.pdb
+C:\Users\18196\source\repos\Interface Crier_Animaux\Interface Crier_Animaux\obj\Debug\Interface Crier_Animaux.csproj.AssemblyReference.cache
+C:\Users\18196\source\repos\Interface Crier_Animaux\Interface Crier_Animaux\obj\Debug\Interface Crier_Animaux.csproj.CoreCompileInputs.cache
+C:\Users\18196\source\repos\Interface Crier_Animaux\Interface Crier_Animaux\obj\Debug\Interface Crier_Animaux.exe
+C:\Users\18196\source\repos\Interface Crier_Animaux\Interface Crier_Animaux\obj\Debug\Interface Crier_Animaux.pdb
+H:\windows programming\Interface_Crier_Animaux\Interface Crier_Animaux\Interface Crier_Animaux\bin\Debug\Interface Crier_Animaux.exe.config
+H:\windows programming\Interface_Crier_Animaux\Interface Crier_Animaux\Interface Crier_Animaux\bin\Debug\Interface Crier_Animaux.exe
+H:\windows programming\Interface_Crier_Animaux\Interface Crier_Animaux\Interface Crier_Animaux\bin\Debug\Interface Crier_Animaux.pdb
+H:\windows programming\Interface_Crier_Animaux\Interface Crier_Animaux\Interface Crier_Animaux\obj\Debug\Interface Crier_Animaux.csproj.AssemblyReference.cache
+H:\windows programming\Interface_Crier_Animaux\Interface Crier_Animaux\Interface Crier_Animaux\obj\Debug\Interface Crier_Animaux.csproj.SuggestedBindingRedirects.cache
+H:\windows programming\Interface_Crier_Animaux\Interface Crier_Animaux\Interface Crier_Animaux\obj\Debug\Interface Crier_Animaux.csproj.CoreCompileInputs.cache
+H:\windows programming\Interface_Crier_Animaux\Interface Crier_Animaux\Interface Crier_Animaux\obj\Debug\Interface Crier_Animaux.exe
+H:\windows programming\Interface_Crier_Animaux\Interface Crier_Animaux\Interface Crier_Animaux\obj\Debug\Interface Crier_Animaux.pdb
